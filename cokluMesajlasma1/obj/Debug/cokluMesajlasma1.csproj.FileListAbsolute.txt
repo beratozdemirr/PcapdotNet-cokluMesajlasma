@@ -1,0 +1,12 @@
+C:\Users\berat\Desktop\4.SINIF 1. DÖNEM\yapay zeka sunum\cokluMesajlasma1\cokluMesajlasma1\bin\Debug\cokluMesajlasma1.exe.config
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\bin\Debug\cokluMesajlasma1.exe.config
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\bin\Debug\cokluMesajlasma1.exe
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\bin\Debug\cokluMesajlasma1.pdb
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.csprojResolveAssemblyReference.cache
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.ilkEkran.resources
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.MesajlasmaEkrani.resources
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.Properties.Resources.resources
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.csproj.GenerateResource.cache
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.csproj.CoreCompileInputs.cache
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.exe
+G:\4.SINIF 1. DÖNEM\AĞ PROGRAMLAMA\PROJE DENEMELERİM\cokluMesajlasma1\cokluMesajlasma1\obj\Debug\cokluMesajlasma1.pdb
